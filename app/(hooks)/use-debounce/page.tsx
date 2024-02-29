@@ -29,7 +29,7 @@ export default function Page() {
   };
 
   return (
-    <div className="p-4">
+    <div className="p-4 text-center mt-8">
       <input
         type="text"
         className="border-2 border-gray-200 p-2 rounded-md text-gray-700"
