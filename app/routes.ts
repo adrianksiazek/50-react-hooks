@@ -11,4 +11,10 @@ export const hooks = [
     id: "use-local-storage",
     path: "use-local-storage",
   },
+  {
+    name: "useWindowSize",
+    description: "Track the dimensions of the browser window with useWindowSize.",
+    id: "use-window-size",
+    path: "use-window-size",
+  },
 ] as const;

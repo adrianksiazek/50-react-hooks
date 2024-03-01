@@ -37,7 +37,7 @@ function useDebounce(value: string, delay: number) {
 </details>
 
 <details>
-  <summary>🍿 useLocalStorage</summary>
+  <summary>useLocalStorage</summary>
 
 ---
 
