@@ -17,4 +17,10 @@ export const hooks = [
     id: "use-window-size",
     path: "use-window-size",
   },
+  {
+    name: "usePrevious",
+    description: "Access the previous value of a state with usePrevious.",
+    id: "use-previous",
+    path: "use-previous",
+  },
 ] as const;
