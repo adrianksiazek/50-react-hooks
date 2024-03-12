@@ -23,4 +23,10 @@ export const hooks = [
     id: "use-previous",
     path: "use-previous",
   },
+  {
+    name: "useIntersectionObserver",
+    description: "Track the visibility of an element with useIntersectionObserver.",
+    id: "use-intersection-observer",
+    path: "use-intersection-observer",
+  },
 ] as const;
